@@ -1,0 +1,2 @@
+# soal-logic
+Latihan
